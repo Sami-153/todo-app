@@ -137,6 +137,14 @@ if __name__ == "__main__":
     # Lookup tests
     print("Lookup 'x':", st.lookup("x"))
     print("Lookup 'temp':", st.lookup("temp"))
+    print("Lookup 'temp':", st.lookup("temp"))
+    print("Lookup 'temp':", st.lookup("temp"))
+    print("Lookup 'temp':", st.lookup("temp"))
+    print("Lookup 'temp':", st.lookup("temp"))
+    print("Lookup 'temp':", st.lookup("temp"))
+    print("Lookup 'temp':", st.lookup("temp"))
+    print("Lookup 'temp':", st.lookup("temp"))
+    print("Lookup 'temp':", st.lookup("temp"))
     print("Lookup 'unknown':", st.lookup("unknown"))
     
     st.print_table()
